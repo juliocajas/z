@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y6D5z8/golfchannel.png" tvg-group="DEPORTES", GOLF1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json
+https://sv.spliktv.xyz/live/dash/HA/0.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y6D5z8/golfchannel.png" tvg-group="DEPORTES", GOLF2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=https://sv.spliktv.xyz/live/key/cc/goltv.json
+https://sv.spliktv.xyz/live/dash/HA/0.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y6D5z8/golfchannel.png" tvg-group="DEPORTES", GOLF3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json
+https://sv.spliktv.xyz/live/dash/HA/0.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y6D5z8/golfchannel.png" tvg-group="DEPORTES", GOLF4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json
+https://sv.spliktv.xyz/live/dash/HA/0.mpd
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y6D5z8/golfchannel.png" tvg-group="DEPORTES", GOLF5
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json
+https://sv.spliktv.xyz/live/dash/HA/0.mpd
+https://sv.spliktv.xyz/live/key/cc/goltv.json
+
+
+
